@@ -1,0 +1,8 @@
+body { background: #f5f7fb; display: flex; justify-content: center; align-items: center; height: 100vh; font-family: Arial; }
+.container { background: white; padding: 30px; border-radius: 15px; width: 90%; max-width: 400px; text-align: center; box-shadow: 0 10px 30px rgba(0,0,0,0.1); }
+.quote-box { margin: 20px 0; min-height: 100px; }
+#quote { font-size: 18px; font-weight: bold; color: #333; }
+#author { display: block; margin-top: 10px; color: #666; text-align: right; }
+button { background: #5b5bff; color: white; border: none; padding: 12px 25px; border-radius: 25px; cursor: pointer; font-size: 16px; }
+button:hover { background: #4242e0; }
+.footer { font-size: 12px; color: #aaa; margin-top: 20px;}
